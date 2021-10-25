@@ -2,7 +2,7 @@ import java.util.*;
 
 public class Test1 {
     public static void main(String [] args) throws Exception {
-        int strNum = 100;
+        int strNum = 100000;
         int fileNum = 100;
         // FileBuilder.getFile(fileNum, strNum);   //   <-- если раскомментировать, будет генерировать (strNum * fileNum) строк
         Scanner in = new Scanner(System.in);
